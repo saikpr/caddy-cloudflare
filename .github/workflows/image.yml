@@ -1,5 +1,4 @@
 name: Build saikpr/caddy-cloudflare
-
 on:
   push:
   schedule:
